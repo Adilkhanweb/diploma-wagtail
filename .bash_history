@@ -66,3 +66,49 @@ git
 clear
 #1676186750
 git init
+#1676186757
+git add .
+#1676186777
+git add .gitignore
+#1676186794
+touch .gitignore
+#1676186796
+ls
+#1676186840
+git commit
+#1676186894
+clear
+#1676186895
+ls
+#1676187069
+git rempote add origin git@github.com/Adilkhanweb/diploma-wagtail
+#1676187079
+git remote add origin git@github.com/Adilkhanweb/diploma-wagtail
+#1676187093
+git push -u origin master
+#1676188544
+git remote show origin
+#1676188574
+git remote add origin https://github.com/Adilkhanweb/diploma-wagtail.git
+#1676188584
+git remote show origin
+#1676188657
+git remote set-url origin https://github.com/Adilkhanweb/diploma-wagtail.git
+#1676188665
+git remote show origin
+#1676188673
+git push -u origin master
+#1676189005
+git pull -u origin master
+#1676189045
+git push -u origin master
+#1676189182
+ls -l
+#1676189188
+ls -la
+#1676189330
+ls
+#1676189338
+touch README.md
+#1676189345
+git init
