@@ -1,0 +1,6 @@
+.cache/
+.local/
+.ssh/
+.bash_history
+.bash_profile
+.dockerignore
